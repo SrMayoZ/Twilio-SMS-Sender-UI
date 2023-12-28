@@ -46,7 +46,7 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor,
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE).
+Este proyecto está bajo la licencia [MIT](LICENSE.md).
 
 ## Contacto
 
